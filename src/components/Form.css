@@ -1,0 +1,14 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.whole-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  margin-top: 10%;
+  margin-left: 25%;
+  max-width: 60%;
+}

@@ -1,0 +1,12 @@
+.whole-home-page {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20%;
+}
+.whole-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
